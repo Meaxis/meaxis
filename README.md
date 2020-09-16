@@ -1,4 +1,6 @@
-# Web/Lua & a bit of Python developer that makes stuff <img align="right" src="https://www.php.net/images/logos/new-php-logo.png" height="50px">
+<img align="right" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" height="50px"><img align="right" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/947px-Lua-Logo.svg.png" height="50px"><img align="right" src="https://www.php.net/images/logos/new-php-logo.png" height="50px">
+
+# Web/Lua & a bit of Python developer that makes stuff
 ## I make stuff
 I try to publish random experiments on GitHub for everyone to see and reuse.
 
