@@ -13,3 +13,5 @@ Look @ my organisations
 
 ## I write bios way too seriously
 Maybe I should. Maybe I shouldn't.
+
+<img src="https://meaxisnetwork.net/assets/images/square_logo.png" style="float: right;">
