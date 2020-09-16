@@ -1,6 +1,15 @@
-# Web Developer, community owner & programmer that enjoys programming.
+# Web/Lua & a bit of Python developer that makes stuff
+## I make stuff
+I try to publish random experiments on GitHub for everyone to see and reuse.
 
-<div style="display: flex; justify-content: space-around;">
-  <img style="height: 100px; display: inline-block; onclick="alert('Yay');" src="https://www.php.net/images/logos/new-php-logo.png">
-  <img style="height: 100px; display: inline-block;" src="https://i.stack.imgur.com/Mmww2.png">
-</div>
+## I own websites
+Look @ my organisations
+
+## Programming Languages
+* PHP
+* JavaScript
+* Lua
+* (a bit of) Python
+
+## I write bios way too seriously
+Maybe I should. Maybe I shouldn't.
