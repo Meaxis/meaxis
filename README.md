@@ -16,9 +16,4 @@ Look @ my organisations
 * (a bit of) Python
 
 ## I write bios way too seriously
-Maybe I should. Maybe I shouldn't.
-
-
-> There are no accidents
-
-*- Master Oogway*
+Maybe I should. Maybe I shouldn't. *Technically, this is a ReadMe, sooooo...*
