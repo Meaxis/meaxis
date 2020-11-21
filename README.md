@@ -17,3 +17,6 @@ Look @ my organisations
 
 ## I write bios way too seriously
 Maybe I should. Maybe I shouldn't. *Technically, this is a ReadMe, sooooo...*
+
+[![Meaxis's github stats](https://github-readme-stats.vercel.app/api?username=meaxis)](https://github.com/anuraghazra/github-readme-stats)
+
