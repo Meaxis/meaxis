@@ -14,6 +14,7 @@ Look @ my organisations
 * JavaScript
 * Lua
 * (a bit of) Python
+* (even less) Java
 
 ## I write bios way too seriously
 Maybe I should. Maybe I shouldn't. *Technically, this is a ReadMe, sooooo...*
