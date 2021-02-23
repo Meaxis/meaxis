@@ -7,7 +7,7 @@
 I try to publish random experiments on GitHub for everyone to see and reuse.
 
 ## I own websites
-I run https://meaxis.fr/ as my personal website for personal project, and [meaxisnetwork.net](https://meaxisnetwork.net) as my organization's (MeaxisNetwork) website
+I run [meaxis.fr] as my personal website for personal project, and [meaxisnetwork.net](https://meaxisnetwork.net) as my organization's (MeaxisNetwork) website
 
 ## Programming Languages
 * PHP
