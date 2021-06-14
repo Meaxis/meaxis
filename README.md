@@ -7,7 +7,7 @@
 I try to publish random experiments on GitHub for everyone to see and reuse.
 
 ## I own websites
-I run [meaxis.fr](https://meaxis.fr) as my personal website for personal project, and [meaxisnetwork.net](https://meaxisnetwork.net) as my organization's (MeaxisNetwork) website
+I run [meaxis.fr](https://meaxis.fr) as my personal website for personal projects, and [meaxisnetwork.net](https://meaxisnetwork.net) as my organization's (MeaxisNetwork) website
 
 ## Programming Languages
 * PHP
@@ -17,7 +17,7 @@ I run [meaxis.fr](https://meaxis.fr) as my personal website for personal project
 * (even less) Java
 
 ## I write bios way too seriously
-Maybe I should. Maybe I shouldn't. *Technically, this is a ReadMe, sooooo...*
+Maybe I should. Maybe I shouldn't. *Technically, this is a README, sooooo...*
 
 [![Meaxis's github stats](https://github-readme-stats.vercel.app/api?username=meaxis&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
